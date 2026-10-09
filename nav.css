@@ -1,0 +1,43 @@
+nav {
+    width: 90%;
+    height: 8vh;
+    background-color: red;
+    border-radius: 30px;
+    jutify-self: center;
+    margin: 30px;
+    padding: 10px 5px 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.links {
+    gap: 20px;
+    display: flex;
+}
+
+.right button {
+    border: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.log {
+    background-color: none;
+}
+
+.sign {
+    background-color: black;
+    color: white;
+}
+
+.sign:hover {
+    background-color: #262D3E;
+}
