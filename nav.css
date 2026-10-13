@@ -3,12 +3,12 @@ nav {
     height: 8vh;
     background-color: red;
     border-radius: 30px;
-    jutify-self: center;
+    /* jutify-self: center; */
     margin: 30px;
     padding: 10px 5px 10px 30px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
 
 .left {
